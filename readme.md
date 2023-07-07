@@ -20,6 +20,7 @@
 
 ![Static Badge](https://img.shields.io/badge/-%20Visual%20Studio%20Code-purple?logo=Visual%20Studio%20Code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-%20NeoVim-purple?logo=NeoVim&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-%20VMware-green?logo=VMware&logoColor=white)
 
 ### Developping Environement: ⌨️
 
