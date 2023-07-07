@@ -21,5 +21,9 @@
 ![Static Badge](https://img.shields.io/badge/-%20Visual%20Studio%20Code-purple?logo=Visual%20Studio%20Code&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-%20NeoVim-purple?logo=NeoVim&logoColor=white)
 
+### Developping Environement
 
-
+![Static Badge](https://img.shields.io/badge/-%20Unbuntu-orange?logo=Ubuntu&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-%20Arch%20Linux-orange?logo=Arch%20Linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-%20Kali%20linux-orange?logo=Kali%20linux&logoColor=white)
+![Static Badge](https://img.shields.io/badge/-%20Windows%2011-orange?logo=Windows%2011&logoColor=white)
