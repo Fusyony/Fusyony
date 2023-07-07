@@ -1,7 +1,13 @@
 
 
-## Hello I'm Matthéo Selingant
+# Hello I'm a  C++ programmer, a low level programming enjoyer and a CyberSecurity enthusiast!
 
-I'm a student from Epitech Montpellier.
+ - I'm from France 🇫🇷
+ - I'm a student in Epitech Montpellier 🌱
+ - I'm a Future student in VGTU school 🇱🇹
 
-I love low level programming and cyber security
+
+### Languages and Tools: 💻
+
+
+
