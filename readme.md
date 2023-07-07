@@ -30,6 +30,7 @@
 ![Static Badge](https://img.shields.io/badge/-%20Windows%2011-orange?logo=Windows%2011&logoColor=white)
 
 
-### Statistics
-
+<details>
+<summary> 📈 Statistics </summary>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fusyony)](https://github.com/anuraghazra/github-readme-stats)
+<details>
