@@ -32,7 +32,7 @@
 
 <details>
 <summary> 📈 Statistics </summary>
- <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitix-EPI&show_icons=true&layout=compact&theme=algolia"/>
+ <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fusyony&show_icons=true&layout=compact&theme=algolia"/>
 </details>
 
 
