@@ -32,5 +32,7 @@
 
 <details>
 <summary> 📈 Statistics </summary>
- <img width="50%" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fusyony)](https://github.com/anuraghazra/github-readme-stats)"/>
+ <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mitix-EPI&show_icons=true&layout=compact&theme=algolia"/>
 </details>
+
+
