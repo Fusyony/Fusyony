@@ -32,5 +32,5 @@
 
 <details>
 <summary> 📈 Statistics </summary>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fusyony)](https://github.com/anuraghazra/github-readme-stats)
+ <img width="50%" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fusyony)](https://github.com/anuraghazra/github-readme-stats)"/>
 </details>
