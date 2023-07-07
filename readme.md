@@ -28,3 +28,8 @@
 ![Static Badge](https://img.shields.io/badge/-%20Arch%20Linux-orange?logo=Arch%20Linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-%20Kali%20linux-orange?logo=Kali%20linux&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/-%20Windows%2011-orange?logo=Windows%2011&logoColor=white)
+
+
+### Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fusyony)](https://github.com/anuraghazra/github-readme-stats)
